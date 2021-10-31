@@ -1,0 +1,36 @@
+.contact tr:last-child td {
+   border: 0.1rem solid;
+   width: 480px;
+}
+input[type="submit"]{
+  color: white;
+  background-color: #008B8B;
+  font-size: 3rem;
+  border-style: none;
+  padding: 10px;
+}
+input[type="submit"]:hover{
+  opacity: 0.5;
+}
+.divsubmit{
+  width: 640px;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+input[type="text"]{
+  width: 480px;
+}
+.contact{
+
+}
+.contact tr {
+  height: 7rem;
+}
+.contact tr th{
+  text-align: right;
+  border-right: 10px solid white;
+}
+.contact tr td{
+  width: 480px;
+}
