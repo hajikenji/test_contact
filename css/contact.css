@@ -28,6 +28,7 @@ input[type="text"]{
   height: 7rem;
 }
 .contact tr th{
+  width: 150px;
   text-align: right;
   border-right: 10px solid white;
 }
